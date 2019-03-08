@@ -6,4 +6,4 @@ copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all r
 canonifyurls = true
 paginate = 4
 [params]
-  staticman = false # turn this to true to enable staticman. See theme README
+  staticman = true # turn this to true to enable staticman. See theme README
