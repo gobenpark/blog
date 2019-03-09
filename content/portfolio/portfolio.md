@@ -2,7 +2,6 @@
 title: "portfolio"
 date: 2019-03-09T15:35:03+09:00
 image: 'cheese.jpg'
-draft: true
 ---
 
 
