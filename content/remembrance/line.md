@@ -1,6 +1,7 @@
 ---
 title: "Line"
 date: 2019-03-09T14:45:31+09:00
+image: 'ferry.jpg'
 <!-- draft: true -->
 ---
 
