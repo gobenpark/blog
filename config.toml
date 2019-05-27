@@ -2,7 +2,7 @@ baseurl = "https://bumwoopark.github.io/"
 title = "Ben Park"
 theme = "hugo-swift-theme"
 author = "Park Bum Woo"
-copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = "Copyright © 2018–2019, BumwooPark; all rights reserved."
 canonifyurls = true
 paginate = 4
 [params]
