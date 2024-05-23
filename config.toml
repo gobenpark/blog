@@ -1,9 +1,0 @@
-baseurl = "https://bumwoopark.github.io/"
-title = "Ben Park"
-theme = "hugo-swift-theme"
-author = "Park Bum Woo"
-copyright = "Copyright © 2018–2019, BumwooPark; all rights reserved."
-canonifyurls = true
-paginate = 4
-[params]
-  staticman = false # turn this to true to enable staticman. See theme README

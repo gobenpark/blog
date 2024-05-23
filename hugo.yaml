@@ -1,0 +1,44 @@
+baseurl: "https://gobenpark.github.io/"
+title: Ben Park
+theme: PaperMod
+author: "Ben Park"
+copyright: "Copyright © 2018–2024, BumwooPark; all rights reserved."
+paginate: 5
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+minify:
+  disableXML: true
+  minifyOutput: true
+menu:
+  main:
+    - identifier: blog
+      name: blog
+      url: /blog/
+      weight: 10
+    - identifier: golang
+      name: golang
+      url: /golang/
+      weight: 15
+    - identifier: remembrance
+      name: remembrance
+      url: /remembrance/
+      weight: 20
+params:
+  defaultTheme: auto
+  profileMode:
+    enabled: true
+    title: "BenPark" # optional default will be site title
+    subtitle: "Developer"
+    imageUrl: "https://avatars.githubusercontent.com/u/17901887?s=96&v=4" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: About
+        url: "/about"
+      - name: Portfolio
+        url: "/portfolio"
+      - name: Github
+        url: "https://github.com/gobenpark"
+
