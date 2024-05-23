@@ -2,6 +2,7 @@
 title: "slack bot"
 date: 2019-05-27T17:21:17+09:00
 image: 'android-161184_1280.png'
+draft: true
 ---
 
 
