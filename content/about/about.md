@@ -1,23 +1,20 @@
 ---
-title: "Bumwoo Park"
+title: "BenPark"
 date: 2019-03-08T17:13:46+09:00
 image: 'resume.jpg'
 ---
 
-## Park Bum Woo
+## Benpark
 
 
 ### GitHub
-- https://github.com/BumwooPark
+- https://github.com/gobenpark
 
 ### Email
-- bw.park0813@gmail.com
+- qjadn0914@naver.com
 
 ### Website
-- BumwooPark.github.io
-
-### Phone
-- +82 10-5141-6906
+- gobenpark.github.io
 
 
 ## Summary
@@ -26,22 +23,39 @@ image: 'resume.jpg'
 ### Skills
 
 - #### Languages
- - Swift
  - Python
  - Shell
  - Golang
+ - Rust
 
-- #### Mobile Development
- - ios
-
-- #### Frameworks
+- #### Keyword
  - Echo(Golang)
+ - Gin(Golang)
  - Kubernetes
  - Docker
  - Swarm
  - Nginx
  - Redis
  - Tensorflow
+ - Helm
+ - ArgoCD
+ - ArgoRollouts
+ - GRPC
+ - Protobuf
+ - GCP
+ - PubSub
+ - BigQuery
+ - BigTable
+ - Spanner
+ - CloudStorage
+ - ElasticSearch
+ - Kibana
+ - OpenTelemetry
+ - Jaeger
+ - Prometheus
+ - Grafana
+ - LangChain
+
 
 - #### Databases
  - Mariadb
@@ -53,7 +67,10 @@ image: 'resume.jpg'
 
 ### Career
 
-2017.02 ~ 
+2019.09 ~ 
+ - Swit: Backend Engineer
+
+2017.02 ~ 2019.08 
  - XIILAB: Software Engineer
 
 2016.09 ~ 2016.12
