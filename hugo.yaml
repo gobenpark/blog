@@ -25,6 +25,10 @@ menu:
       name: remembrance
       url: /remembrance/
       weight: 20
+    - identifier: algorithm
+      name: algorithm
+      url: /algorithm/
+      weight: 25
 params:
   defaultTheme: auto
   profileMode:
