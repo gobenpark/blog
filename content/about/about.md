@@ -6,7 +6,6 @@ image: 'resume.jpg'
 
 ## Benpark
 
-
 ### GitHub
 - https://github.com/gobenpark
 
@@ -15,9 +14,6 @@ image: 'resume.jpg'
 
 ### Website
 - gobenpark.github.io
-
-
-## Summary
 
 
 ### Skills
