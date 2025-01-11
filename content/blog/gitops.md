@@ -165,5 +165,4 @@ jobs:
 
 7. github repository secret 설정 
 >  각 요소의 secret을 넣어준다.
-ll
-> 
+ 
